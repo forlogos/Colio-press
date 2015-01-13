@@ -1,0 +1,1 @@
+From the colio zip file that you download from CodeCanyon, add all the contents of /colio-white/imagesto this folder

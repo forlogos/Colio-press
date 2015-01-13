@@ -1,0 +1,9 @@
+From the colio zip file that you download from CodeCanyon, add the following files to this folder:
+
+/colio-white/style.css
+/colio-white/flexslider/flexslider.css
+/css/base.css
+/css/colio.css
+/css/layout.css
+/css/skeleton.css
+
